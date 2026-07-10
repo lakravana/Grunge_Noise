@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-DCTL-blueviolet?style=for-the-badge" alt="DaVinci Resolve DCTL">
+  <img src="https://img.shields.io/badge/Color%20Science-Linear%20%2F%20DWG-orange?style=for-the-badge" alt="Color Science">
+</p>
+
 <div align="center"><h1>Grunge Noise / Photocopy DCTL</h1><p><strong>Version 1.0 | Analog Photocopy & CRT Texture Simulation</strong></p><p>Created by Galavnikov @ lakravana.com</p></div><hr><h3>1. Logline</h3>
 <p>
 A high-contrast "stamping" engine that converts images into stylized black-and-white art by injecting procedural noise (White, Pink, or Perlin) into the luminance signal before applying a binary threshold.
